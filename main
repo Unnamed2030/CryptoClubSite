@@ -1,1 +1,3 @@
-git add
+git add .
+git commit -m "bitcoinprice"
+git push origin master
